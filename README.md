@@ -2,6 +2,7 @@
 
 # SVHN yolo-v2 digit detector
 
+
 I have implemented a digit detector that applies yolo-v2 to svhn dataset.
 
 <img src="images/svhn.png" height="600">
